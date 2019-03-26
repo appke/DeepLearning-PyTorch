@@ -22,10 +22,10 @@
 | 章节 | 项目实战     | 笔记博客                                | 案例代码                                                     |
 | ---- | :------------------- | :-------------------------------------- | :----------------------------------------------------------- |
 | 01   | PyTorch实现线性回归  | [**用PyTorch实现线性回归**]             | [01-计算梯度.ipynb](ex01-线性回归/01-计算梯度.ipynb)<br>[02-调整权重和偏置.ipynb](ex01-线性回归/02-调整权重和偏置.ipynb)<br/>[03-使用PyTorch内置的线性回归.ipynb](ex01-线性回归/03-使用PyTorch内置的线性回归.ipynb)<br/> |
-|02 |洛杉矶房价预测|[洛杉矶房价预测](https://www.jianshu.com/p/9de54d5d70d5)|[kk01-机器学习完整技术栈.ipynb](ex02-房价预测/kk01-机器学习完整技术栈.ipynb)<br/>[kk02-洛杉矶房价预测.ipynb](ex02-房价预测/kk02-洛杉矶房价预测.ipynb)
-[kk03-相关性分析.ipynb](ex02-房价预测/kk03-相关性分析.ipynb)
-[kk04-新1轮空值填充.ipynb](ex02-房价预测/kk04-新1轮空值填充.ipynb)
-[kk05-砖石镶板的填充.ipynb](ex02-房价预测/kk05-砖石镶板的填充.ipynb)|
+|02 |洛杉矶房价预测|[洛杉矶房价预测](https://www.jianshu.com/p/9de54d5d70d5)|[kk01-机器学习完整技术栈.ipynb](ex02-房价预测/kk01-机器学习完整技术栈.ipynb)<br/>[kk02-洛杉矶房价预测.ipynb](ex02-房价预测/kk02-洛杉矶房价预测.ipynb)<br/>
+[kk03-相关性分析.ipynb](ex02-房价预测/kk03-相关性分析.ipynb)<br/>
+[kk04-新1轮空值填充.ipynb](ex02-房价预测/kk04-新1轮空值填充.ipynb)<br/>
+[kk05-砖石镶板的填充.ipynb](ex02-房价预测/kk05-砖石镶板的填充.ipynb)<br/>|
 | 03   | MNIST手写体识别 | **[用PyTorch的逻辑回归实现图像分类**]() | [01-PyTorch加载MNIST数据.ipynb](ex03-手写体识别/01-PyTorch加载MNIST数据.ipynb)<br/>[02-Logist回归实现图像分类.ipynb](ex03-手写体识别/02-Logist回归实现图像分类.ipynb)<br/> |
 
 <br>
