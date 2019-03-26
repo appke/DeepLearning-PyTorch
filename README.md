@@ -1,9 +1,38 @@
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)<a href="https://www.jianshu.com/u/4dc749fdfbb7"><img src="https://img.shields.io/badge/%E7%AE%80%E4%B9%A6-@geekAppke-b561fe.svg?style=flat&colorA=ed6f59"></a>
+
 # DeepLearning-PyTorch
-
-
-![](images/feed-face.png)
-
 深度学习理论与实战PyTorch实现
 
-#### Linux安装环境
+| 章节 | 深度学习框架   | 案例代码 | 参考资料📚 |
+| :--- | :--------------  | :----------------------------------------------------------- |---|
+| 01   | Python基础            | [01-Python基础.ipynb](ch01-Python基础/01-Python基础.ipynb) | [01-深度学习环境安装和配置.pdf](ch08-参考资料/01-深度学习环境安装和配置.pdf) |
+| 02   | PyTorch基础             | [01-张量和变量.ipynb](ch02-PyTorch基础/01-张量和变量.ipynb)<br>[02-PyTorch处理Tensor.ipynb](ch02-PyTorch基础/02-PyTorch处理Tensor.ipynb)<br/>[03-和Numpy的互操作.ipynb](ch02-PyTorch基础/03-和Numpy的互操作.ipynb)<br/>[04-张量运算和梯度.ipynb](ch02-PyTorch基础/04-张量运算和梯度.ipynb) |[02-详解Python及代码.pdf](ch08-参考资料/02-详解Python及代码.pdf)<br/>|
+| 03   | 神经网络 |       ||
+| 04   | 卷积神经网络        | ||
+| 05   | 循环神经网络        | ||
+| 06   | 生成对抗网络GAN    | ||
+| 07   | 强化学习        |     ||
 
+<br>
+
+## 🎉PyTorch实战
+
+| 章节 | 深度学习框架         | 笔记博客                                | 案例代码                                                     |
+| ---- | :------------------- | :-------------------------------------- | :----------------------------------------------------------- |
+| 01   | PyTorch实现线性回归  | [**用PyTorch实现线性回归**]             | [01-计算梯度.ipynb](ex01-实现线性回归/01-计算梯度.ipynb)<br>[02-调整权重和偏置.ipynb](ex01-实现线性回归/02-调整权重和偏置.ipynb)<br/>[03-使用PyTorch内置的线性回归.ipynb](ex01-实现线性回归/03-使用PyTorch内置的线性回归.ipynb)<br/> |
+| 02   | 逻辑回归实现图像分类 | **[用PyTorch的逻辑回归实现图像分类**]() | [01-PyTorch加载MNIST数据.ipynb](ex02-Logistic回归实现图像分类/01-PyTorch加载MNIST数据.ipynb)<br/>[02-Logist回归实现图像分类.ipynb](ex02-Logistic回归实现图像分类/02-Logist回归实现图像分类.ipynb)<br/> |
+
+<br>
+
+#### 快速入门
+
+```
+pip3 install torch torchvision
+
+import torch
+torch.tensor([5, 3, 2])
+```
+
+
+
+![](images/pytorch-logo.png)
