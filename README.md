@@ -5,8 +5,8 @@
 
 | 章节 | 深度学习框架   | 案例代码 | 参考资料📚 |
 | :--- | :--------------  | :----------------------------------------------------------- |---|
-| 01   | Python基础            | [01-Python基础.ipynb](ch01-Python基础/01-Python基础.ipynb) | [01-深度学习环境安装和配置.pdf](ch08-参考资料/01-深度学习环境安装和配置.pdf) |
-| 02   | PyTorch基础             | [01-张量和变量.ipynb](ch02-PyTorch基础/01-张量和变量.ipynb)<br>[02-PyTorch处理Tensor.ipynb](ch02-PyTorch基础/02-PyTorch处理Tensor.ipynb)<br/>[03-和Numpy的互操作.ipynb](ch02-PyTorch基础/03-和Numpy的互操作.ipynb)<br/>[04-张量运算和梯度.ipynb](ch02-PyTorch基础/04-张量运算和梯度.ipynb) |[02-详解Python及代码.pdf](ch08-参考资料/02-详解Python及代码.pdf)<br/>|
+| 01   | Python基础            | [01-Python基础.ipynb](ch01-Python基础/01-Python基础.ipynb) | [01-深度学习环境安装和配置.pdf](ch08-参考资料/01-深度学习环境安装和配置.pdf)<br>[02-详解Python及代码.pdf](ch08-参考资料/02-详解Python及代码.pdf)<br/>[centos7 搭建 python35+pip3+pytorch 深度学习环境](https://blog.csdn.net/huangfei711/article/details/78722915) |
+| 02   | PyTorch基础(！！融合！！)   | [01-张量和变量.ipynb](ch02-PyTorch基础/01-张量和变量.ipynb)<br>[02-PyTorch处理Tensor.ipynb](ch02-PyTorch基础/02-PyTorch处理Tensor.ipynb)<br/>[03-和Numpy的互操作.ipynb](ch02-PyTorch基础/03-和Numpy的互操作.ipynb)<br/>[04-张量运算和梯度.ipynb](ch02-PyTorch基础/04-张量运算和梯度.ipynb) |[03-PyTorch简介.pdf](ch08-参考资料/03-PyTorch简介.pdf)|
 | 03   | 神经网络 |       ||
 | 04   | 卷积神经网络        | ||
 | 05   | 循环神经网络        | ||
@@ -16,6 +16,8 @@
 <br>
 
 ## 🎉PyTorch实战
+
+![](images/pytorch-logo.png)
 
 | 章节 | 深度学习框架         | 笔记博客                                | 案例代码                                                     |
 | ---- | :------------------- | :-------------------------------------- | :----------------------------------------------------------- |
@@ -33,6 +35,7 @@ import torch
 torch.tensor([5, 3, 2])
 ```
 
+<p align='center'>
+<img src='images/surface.jpg'>
+</p>
 
-
-![](images/pytorch-logo.png)
